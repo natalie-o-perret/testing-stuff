@@ -190,3 +190,8 @@ paket-files/
 
 # CodeRush
 .cr/
+
+# Rust
+target/
+
+.env
