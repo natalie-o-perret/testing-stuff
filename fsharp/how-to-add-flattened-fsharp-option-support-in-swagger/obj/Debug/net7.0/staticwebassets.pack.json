@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\natalie-perret\\Desktop\\GitHub\\how-to-experiments\\fsharp\\how-to-add-flattened-fsharp-option-support-in-swagger\\wwwroot\\swagger-ui\\swagger-dark.css",
+      "PackagePath": "staticwebassets\\swagger-ui\\swagger-dark.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.props",
+      "PackagePath": "build\\HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.props",
+      "PackagePath": "buildTransitive\\HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

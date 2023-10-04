@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "KircCXA646Y88b9RrXz1WYxSEymIFwwEZhXCpq+gJYKgZorcdXok8r+gJhMHv3Vnf8bl7m1PznJYs4RLWfCJxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natalie-perret\\Desktop\\GitHub\\how-to-experiments\\fsharp\\how-to-add-flattened-fsharp-option-support-in-swagger\\HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\asp.versioning.abstractions\\7.0.0\\asp.versioning.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\asp.versioning.http\\7.0.0\\asp.versioning.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\asp.versioning.mvc\\7.0.0\\asp.versioning.mvc.7.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\asp.versioning.mvc.apiexplorer\\7.0.0\\asp.versioning.mvc.apiexplorer.7.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\fsharp.systemtextjson\\1.1.23\\fsharp.systemtextjson.1.1.23.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\fsharpplus\\1.4.0\\fsharpplus.1.4.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\natalie-perret\\.nuget\\packages\\typeshape\\10.0.0\\typeshape.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

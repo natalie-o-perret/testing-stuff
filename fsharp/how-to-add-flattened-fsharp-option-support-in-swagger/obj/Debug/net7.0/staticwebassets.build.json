@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vgR8C74HzTe1iCOOOTiWHdypjA1XMW2eorclsrrxGUI=",
+  "Source": "HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc",
+  "BasePath": "_content/HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc\\wwwroot",
+      "Source": "HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc",
+      "ContentRoot": "C:\\Users\\natalie-perret\\Desktop\\GitHub\\how-to-experiments\\fsharp\\how-to-add-flattened-fsharp-option-support-in-swagger\\wwwroot\\",
+      "BasePath": "_content/HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\natalie-perret\\Desktop\\GitHub\\how-to-experiments\\fsharp\\how-to-add-flattened-fsharp-option-support-in-swagger\\wwwroot\\swagger-ui\\swagger-dark.css",
+      "SourceId": "HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\natalie-perret\\Desktop\\GitHub\\how-to-experiments\\fsharp\\how-to-add-flattened-fsharp-option-support-in-swagger\\wwwroot\\",
+      "BasePath": "_content/HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc",
+      "RelativePath": "swagger-ui/swagger-dark.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\swagger-dark.css"
+    }
+  ]
+}

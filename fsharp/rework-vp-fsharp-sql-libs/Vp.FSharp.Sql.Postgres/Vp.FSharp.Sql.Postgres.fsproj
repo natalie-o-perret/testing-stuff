@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <Compile Include="Library.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Vp.FSharp.Sql.Postgres.StaticAbstracts\Vp.FSharp.Sql.Postgres.StaticAbstracts.csproj" />
+      <ProjectReference Include="..\Vp.FSharp.Sql\Vp.FSharp.Sql.fsproj" />
+    </ItemGroup>
+
+</Project>

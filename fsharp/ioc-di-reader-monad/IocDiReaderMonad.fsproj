@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Domain.fs" />
+        <Compile Include="Infrastructure.fs" />
+        <Compile Include="Step 1 - Hardcoding.fs" />
+        <Compile Include="Step 2 - IoC.fs" />
+        <Compile Include="Step 3 - Partial Application.fs" />
+        <Compile Include="Step 4 - Reader Monad Binding.fs" />
+        <Compile Include="Step 5 - Uniting Dependencies.fs" />
+        <Compile Include="Step 6 - Computation Expression.fs" />
+        <Compile Include="Step 7 - The Actual Reader Monad.fs" />
+        <Compile Include="Step 8 - FSharpPlus Reader Monad.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FSharpPlus" Version="1.4.1" />
+      <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="8.0.0-rc.1.23419.6" />
+    </ItemGroup>
+
+</Project>

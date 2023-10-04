@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>HowToAddFlattenedFSharpOptionSupportInSwagger.Mvc</name></assembly>
+<members>
+<member name="M:FlattenedFSharpOptionsInSwagger.Mvc.Controllers.TmpController.PostShenanigans(FlattenedFSharpOptionsInSwagger.Mvc.Controllers.Parent)">
+ <summary>
+ Post Shenanigans.
+ </summary>
+</member>
+</members>
+</doc>

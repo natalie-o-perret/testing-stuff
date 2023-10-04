@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Helpers\ReadOnlyWrappers.fs" />
+        <Compile Include="Helpers\ZipArchive.fs" />
+        <Compile Include="Helpers\String.fs" />
+        <Compile Include="Helpers\InvariantLowerString.fs" />
+        <Compile Include="Helpers\Xml\Types.fs" />
+        <Compile Include="Helpers\Xml\SimpleXmlReader.fs" />
+        <Compile Include="Xlsx\Entries\Constants\WorkbookRelsNames.fs" />
+        <Compile Include="Xlsx\Entries\Constants\SharedStringNames.fs" />
+        <Compile Include="Xlsx\Entries\Constants\WorksheetNames.fs" />
+        <Compile Include="Xlsx\Entries\Types.fs" />
+        <Compile Include="Xlsx\Entries\SharedStrings.fs" />
+        <Compile Include="Xlsx\Entries\WorkbookRels.fs" />
+        <Compile Include="Xlsx\Entries\Worksheet.fs" />
+        <Compile Include="ComputationExpressions.fs" />
+        <Compile Include="Program.fs" />
+        <Content Include="README.md" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FSharp.Control.AsyncSeq" Version="3.2.1" />
+      <PackageReference Include="FSharp.Control.TaskSeq" Version="0.3.0" />
+      <PackageReference Include="FSharpPlus" Version="1.4.1" />
+    </ItemGroup>
+
+</Project>
